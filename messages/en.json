@@ -1,0 +1,25 @@
+{
+  "Index": {
+    "title": "Hello world!",
+    "getStarted": "Get started by editing <page>path</page>",
+    "links": {
+      "by": "By <vercel>Vercel</vercel>",
+      "docs": {
+        "title": "Docs",
+        "message": "Find in-depth information about Next.js features and API."
+      },
+      "learn": {
+        "title": "Learn",
+        "message": "Learn about Next.js in an interactive course with&nbsp;quizzes!"
+      },
+      "templates": {
+        "title": "Templates",
+        "message": "Explore starter templates for Next.js."
+      },
+      "deploy": {
+        "title": "Deploy",
+        "message": "Instantly deploy your Next.js site to a shareable URL with Vercel."
+      }
+    }
+  }
+}

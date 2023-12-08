@@ -1,0 +1,25 @@
+{
+  "Index": {
+    "title": "Hallo Welt!",
+    "getStarted": "Erste Schritte durch Bearbeiten von <page>path</page>",
+    "links": {
+      "by": "Von <vercel>Vercel</vercel>",
+      "docs": {
+        "title": "Dokumentation",
+        "message": "Finden Sie ausführliche Informationen zu den Funktionen und der API von Next.js."
+      },
+      "learn": {
+        "title": "Lernen",
+        "message": "Erfahren Sie mehr über Next.js in einem interaktiven Kurs mit Quizfragen!"
+      },
+      "templates": {
+        "title": "Vorlagen",
+        "message": "Entdecken Sie Starter-Vorlagen für Next.js."
+      },
+      "deploy": {
+        "title": "Bereitstellen",
+        "message": "Stellen Sie Ihre Next.js-Site sofort auf einer gemeinsam nutzbaren URL mit Vercel bereit."
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+.switcher {
+  position: absolute;
+  right: 0;
+  padding: 4px;
+  z-index: 10;
+}
+
+.link {
+  margin: 0 4px;
+  text-decoration: underline;
+}
+
+.current {
+  font-weight: bold;
+  pointer-events: none;
+  text-decoration: none;
+}
